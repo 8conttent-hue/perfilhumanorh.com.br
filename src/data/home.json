@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "PERFILHUMANORH — Transformando Conexões em Oportunidades",
+    "description": "Estamos aqui para ajudar você a alcançar suas metas profissionais e a construir equipes de sucesso."
+  },
+  "hero": {
+    "title": "Transformando Conexões em Oportunidades",
+    "subtitle": "Estamos aqui para ajudar você a alcançar suas metas profissionais e a construir equipes de sucesso.",
+    "btnText": "Saiba Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "🤝",
+        "title": "Relações de Confiança",
+        "desc": "Focamos na conexão entre pessoas, promovendo um ambiente de trabalho positivo e saudável."
+      },
+      {
+        "icon": "📈",
+        "title": "Crescimento Sustentável",
+        "desc": "Apoiamo-nos na evolução de pequenas e médias empresas, levando ao sucesso a longo prazo."
+      },
+      {
+        "icon": "🎓",
+        "title": "Conteúdo Especializado",
+        "desc": "Oferecemos artigos e insights de colunistas experientes para atualizar e capacitar sua equipe."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "desc": "No PERFILHUMANORH, somos movidos pela paixão em transformar o mercado de trabalho. Desde nossa fundação, temos o compromisso de conectar empresas e talentos, desafiando limites e superando incertezas.",
+    "stats": [
+      {
+        "value": "3.000+",
+        "label": "Empresas Auxiliadas"
+      },
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "150+",
+        "label": "Artigos Publicados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

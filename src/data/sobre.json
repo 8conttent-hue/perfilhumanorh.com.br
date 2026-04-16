@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o PERFILHUMANORH"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No PERFILHUMANORH, somos movidos pela paixão em transformar o mercado de trabalho. Desde nossa fundação, temos o compromisso de conectar empresas e talentos, desafiando limites e superando incertezas."
+  },
+  "content": "Nosso objetivo é ser a ponte que liga pessoas a oportunidades. Acreditamos que o sucesso se constrói em equipe e que a confiança é a base de relacionamentos duradouros. Assim, trabalhamos todos os dias para inovar na gestão de recursos humanos e acolher cada vez mais indivíduos em suas jornadas profissionais.",
+  "mission": "Promover crescimento pessoal e organizacional por meio de conexões verdadeiras e conteúdo de qualidade.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

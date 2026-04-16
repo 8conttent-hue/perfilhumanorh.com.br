@@ -1,0 +1,53 @@
+{
+  "name": "PERFILHUMANORH",
+  "slug": "perfilhumanorh.com.br",
+  "description": "Nossa história é criada pela conexão entre pessoas, formando relações de confiança. Foi esse motivo que nos inspirou, desde o começo, a desafiar limites e buscar novas formas para cuidar do ambiente de trabalho e auxiliar pessoas a conseguirem uma oportunidade de emprego. Somos especialistas na área de RH e entregamos conteúdo e conhecimentos para evoluir pessoas e empresas Mesmo nos momentos de incerteza, sempre soubemos que seria possível, porque cada desafio reforçou ainda mais nosso sonho de transformar positivamente as organizações. Ajudamos mais de 3.000 pequenas e médias empresas, como a sua, a crescerem de forma sustentável e pessoas a alcançarem seu tão almejado emprego. Contamos com colunistas que possuem ampla experiência no mercado, temos uma equipe preparada para contribuir com informações e novidades.",
+  "url": "https://perfilhumanorh.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "Nossa historia e criada pela conexao entre pessoas formando relacoes de confianca",
+  "email": "contato@perfilhumanorh.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-H",
+    "hero": "Hero-E",
+    "features": "Features-E",
+    "about": "About-F",
+    "posts": "Posts-C",
+    "footer": "Footer-H",
+    "sobre": "Sobre-J",
+    "contato": "Contato-J"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
